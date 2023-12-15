@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Mahajan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umesh5678/Mobile-Shoppe-App-Project.git](https://github.com/Umesh5678/Mobile-Shoppe-App-Project.git)
 
