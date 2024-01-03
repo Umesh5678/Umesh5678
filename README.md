@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Umesh5678/Mobile-Shoppe-App-Project.git](https://github.com/Umesh5678/Mobile-Shoppe-App-Project.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Umesh5678/Expences_App.git](https://github.com/Umesh5678/Expences_App.git)
 
 - 📫 How to reach me **umeshmahajan88050@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19OsRpB1FmK7isOBe8RuqDhgL4zHD6lEf/view?usp=drive_link](https://drive.google.com/file/d/19OsRpB1FmK7isOBe8RuqDhgL4zHD6lEf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wd_bZHInvCeoahD0utUtclMsrkpcN3jm/view?usp=sharing](https://drive.google.com/file/d/1wd_bZHInvCeoahD0utUtclMsrkpcN3jm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
